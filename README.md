@@ -19,6 +19,8 @@ Features
 * Task Manager
 * File Manager
 * Startup Manager
+* Remote Microphone
+* Remote Screenshot
 * Remote Desktop
 * Remote Webcam
 * Remote Shell
@@ -98,6 +100,3 @@ Mono.Nat
 Copyright (c) 2006 Alan McGovern, Copyright (c) 2007 Ben Motmans  
 https://github.com/nterry/Mono.Nat
 
-Thank you!
----
-I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Quasar!
