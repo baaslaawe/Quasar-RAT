@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{14CA405B-8BAC-48AB-9FBA-8FB5DF88FD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9F5CF56A-DDB2-4F40-AB99-2A1DC47588E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CA405B-8BAC-48AB-9FBA-8FB5DF88FD0D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{14CA405B-8BAC-48AB-9FBA-8FB5DF88FD0D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{14CA405B-8BAC-48AB-9FBA-8FB5DF88FD0D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{14CA405B-8BAC-48AB-9FBA-8FB5DF88FD0D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9F5CF56A-DDB2-4F40-AB99-2A1DC47588E1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9F5CF56A-DDB2-4F40-AB99-2A1DC47588E1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9F5CF56A-DDB2-4F40-AB99-2A1DC47588E1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9F5CF56A-DDB2-4F40-AB99-2A1DC47588E1}.Release|Mixed Platforms.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
