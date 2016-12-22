@@ -1,0 +1,70 @@
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Bin\Debug\Quasar.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Bin\Debug\Quasar.pdb
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmMicrophone.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRemoteWebcam.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmAbout.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmAddToAutostart.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmBuilder.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmConnections.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmDownloadAndExecute.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmFileManager.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmKeylogger.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmMain.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmPasswordRecovery.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegistryEditor.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditBinary.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditMultiString.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditString.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditWord.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRemoteDesktop.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRemoteShell.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmReverseProxy.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmSettings.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmShowMessagebox.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmStartupManager.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmSystemInformation.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmTaskManager.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmTermsOfUse.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmUploadAndExecute.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmVisitWebsite.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmUpdate.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\xServer.Properties.Resources.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\Quasar.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\Quasar.pdb
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Bin\Debug\Quasar.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Bin\Debug\Quasar.pdb
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmMicrophone.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRemoteWebcam.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmAbout.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmAddToAutostart.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmBuilder.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmConnections.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmDownloadAndExecute.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmFileManager.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmKeylogger.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmMain.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmPasswordRecovery.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegistryEditor.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditBinary.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditMultiString.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditString.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRegValueEditWord.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRemoteDesktop.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmRemoteShell.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmReverseProxy.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmSettings.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmShowMessagebox.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmStartupManager.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmSystemInformation.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmTaskManager.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmTermsOfUse.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmUploadAndExecute.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmVisitWebsite.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Forms.FrmUpdate.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\xServer.Properties.Resources.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\Quasar.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Server\obj\Debug\Quasar.pdb
