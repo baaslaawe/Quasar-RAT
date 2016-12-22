@@ -1,0 +1,14 @@
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Bin\Debug\Client.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Bin\Debug\Client.pdb
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Client\obj\x86\Debug\xClient.Properties.Resources.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Client\obj\x86\Debug\Client.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Client\obj\x86\Debug\Client.pdb
+C:\Users\mirko\Downloads\QuasarRAT-master (1)\QuasarRAT-master\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Client\obj\x86\Debug\xClient.Properties.Resources.resources
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Bin\Debug\turingmachine.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Bin\Debug\turingmachine.pdb
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Client\obj\x86\Debug\turingmachine.exe
+C:\Users\mirko\Downloads\QuasarRAT-master (1) - Copia\QuasarRAT-master\Client\obj\x86\Debug\turingmachine.pdb
